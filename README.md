@@ -1,7 +1,7 @@
 # ExtraCatalogs
 
 Alternative MessageCatalog for Visualworks Smalltalk that supports
-XLIFF-format files.
+[XLIFF](http://en.wikipedia.org/wiki/XLIFF)-format files.
 
 ExtraCatalogs is licensed under the MIT license.  See the Copyright
 tab in the RB, the 'notice' property of this package, or the LICENSE
