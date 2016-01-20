@@ -1,5 +1,7 @@
 # ExtraCatalogs
 
+![Maintenance Status](https://img.shields.io/badge/maintenance-active-green.svg)
+
 Alternative MessageCatalog for Visualworks Smalltalk that supports
 [XLIFF](http://en.wikipedia.org/wiki/XLIFF)-format files.
 
